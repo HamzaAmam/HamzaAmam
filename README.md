@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Hamza 👋
 
-<!--
-**HamzaAmam/HamzaAmam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechanical Engineering student at the University of South Carolina.
 
-Here are some ideas to get you started:
+I enjoy building practical engineering solutions through CAD, software, and 3D design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+
+- Python (CS50P)
+- SOLIDWORKS (CSWA)
+- Blender
+- Git & GitHub
+- HTML, CSS & JavaScript
+
+## Current Projects
+
+- 🌐 Personal Engineering Portfolio
+- ⚙️ SOLIDWORKS CAD Portfolio
+- 🐍 Python Engineering Toolkit
+- 🎮 Roblox Asset Development
+
+## Interests
+
+- Mechanical Design
+- Product Development
+- Robotics
+- Manufacturing
+- Automation
+- CAD
+- Programming
+
+## Connect
+
+- Portfolio (Coming Soon): https://hamzaamam.com
+- GitHub: https://github.com/hamzaamam

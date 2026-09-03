@@ -1,4 +1,4 @@
-# Hi, I'm Hamza 👋
+# Hi, I'm Hamza
 
 Mechanical Engineering student at the University of South Carolina.
 

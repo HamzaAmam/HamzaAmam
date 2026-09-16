@@ -14,10 +14,10 @@ I enjoy building practical engineering solutions through CAD, software, and 3D d
 
 ## Current Projects
 
-- 🌐 Personal Engineering Portfolio
-- ⚙️ SOLIDWORKS CAD Portfolio
-- 🐍 Python Engineering Toolkit
-- 🎮 Roblox Asset Development
+- Personal Engineering Portfolio
+- SOLIDWORKS CAD Portfolio
+- Python Engineering Toolkit
+- Roblox Asset Development
 
 ## Interests
 
